@@ -1,5 +1,5 @@
 {
-  "name": "react-hooks-context",
+  "name": "@lequysang/react-hooks-context",
   "version": "0.9.1",
   "description": "simple react context wrapper with hooks",
   "main": "index.js",

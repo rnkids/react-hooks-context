@@ -2,7 +2,7 @@
  simple react context wrapper with hooks
 # usage
 ```
-npm i -S react-hooks-context
+npm i -S @lequysang/react-hooks-context
 ```
 Wrap your Root app and give your value
 ```jsx
