@@ -1,0 +1,22 @@
+{
+  "name": "react-hooks-context",
+  "version": "0.9.0",
+  "description": "simple react context wrapper with hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-hooks-context",
+    "react-hooks",
+    "react-context",
+    "react",
+    "react-native"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanglequyvn/react-hooks-context"
+  },
+  "author": "Le Quy Sang",
+  "license": "MIT"
+}
