@@ -7,7 +7,7 @@ npm i -S @lequysang/react-hooks-context
 Wrap your Root app and give your value
 ```jsx
 import React, { useState } from 'react'
-import { ContextProvider } from 'react-hooks-context'
+import { ContextProvider } from '@lequysang/react-hooks-context'
 
 const App = () => {
   const [state, setState] = useState(0);
@@ -25,7 +25,7 @@ export default App;
 ```
 Get value back in your View
 ```jsx
-import { useValue } from 'react-hooks-context';
+import { useValue } from '@lequysang/react-hooks-context';
 
 const YourView = () => {
     const { state, action } = useValue();
