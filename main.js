@@ -1,8 +1,8 @@
 import React, { createContext, useContext } from "react";
 
-export const HooksContext = createContext();
+const HooksContext = createContext();
 
-export const GameProvider = ({ children, value }) => {
+export const ContextProvider = ({ children, value }) => {
     return <HooksContext.Provider value={value}>{children}</HooksContext.Provider>;
 };
 
